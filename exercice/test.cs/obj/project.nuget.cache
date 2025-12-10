@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sHZ/v8jOmeo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\plabu\\Downloads\\UA3-ANALYSE_CONCEPTION\\exercice\\test.cs\\Exercice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\plabu\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\10.0.0\\microsoft.dotnet.ilcompiler.10.0.0.nupkg.sha512",
+    "C:\\Users\\plabu\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.0\\microsoft.net.illink.tasks.10.0.0.nupkg.sha512",
+    "C:\\Users\\plabu\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\10.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
