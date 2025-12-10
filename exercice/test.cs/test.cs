@@ -10,6 +10,9 @@ class Program
         // Exemple de fonction
         int resultat = Addition(5, 7);
         Console.WriteLine("Résultat de 5 + 7 = " + resultat);
+
+        //  Nouvelle ligne ajoutée pour la modification
+        Console.WriteLine("Modification : programme mis à jour !");
     }
 
     static int Addition(int a, int b)
